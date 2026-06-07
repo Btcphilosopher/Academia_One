@@ -1,0 +1,6 @@
+{
+  "name": "Academia One",
+  "description": "Unified prestige university student operating system and academic life engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
